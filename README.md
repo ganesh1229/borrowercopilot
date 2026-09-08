@@ -202,7 +202,7 @@ The app was designed around three challenge personas.
 - Credit score: 780
 - Wants ₹8,00,000 for a wedding
 
-![negotiaon-card](./public/screenshots/priya.png)
+![negotiaon-card](./public/screenshots/priyacard.png)
 
 ### Ravi
 
